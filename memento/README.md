@@ -1,0 +1,2 @@
+# Memento Pattern
+Memento pattern normally isn't that complex. I have added some extra classes, inheritance and composition. You can implement the pattern using only the editor,history and state classes.
